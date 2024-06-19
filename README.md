@@ -181,3 +181,5 @@ List of Installed Extensions for VS Code:
 2. Challenge: Initializing a Git Repository and Making the First Commit
    - Solution: Used Git documentation and GitHub guides to understand the commands and workflow.
 
+  N.B  The screenshots could not be added since the installation was done over the week and the assignment completion done after all the week's coursework
+
